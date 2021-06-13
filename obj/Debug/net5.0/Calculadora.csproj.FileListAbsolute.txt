@@ -1,0 +1,16 @@
+/home/gabi/Desktop/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora
+/home/gabi/Desktop/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora.deps.json
+/home/gabi/Desktop/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora.runtimeconfig.json
+/home/gabi/Desktop/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora.runtimeconfig.dev.json
+/home/gabi/Desktop/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora.dll
+/home/gabi/Desktop/Calculadora/Calculadora/bin/Debug/net5.0/ref/Calculadora.dll
+/home/gabi/Desktop/Calculadora/Calculadora/bin/Debug/net5.0/Calculadora.pdb
+/home/gabi/Desktop/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.csprojAssemblyReference.cache
+/home/gabi/Desktop/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabi/Desktop/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.AssemblyInfoInputs.cache
+/home/gabi/Desktop/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.AssemblyInfo.cs
+/home/gabi/Desktop/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/gabi/Desktop/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.dll
+/home/gabi/Desktop/Calculadora/Calculadora/obj/Debug/net5.0/ref/Calculadora.dll
+/home/gabi/Desktop/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.pdb
+/home/gabi/Desktop/Calculadora/Calculadora/obj/Debug/net5.0/Calculadora.genruntimeconfig.cache
