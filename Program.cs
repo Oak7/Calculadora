@@ -29,7 +29,7 @@ namespace Calculadora
                     resultado = num1 - num2;
                     Console.WriteLine("O resultado da subtração é: "+ resultado);break;
 
-                case 'x': case'X': case'*':
+                case 'x': case 'X': case '*':
                     resultado = num1 * num2;
                     Console.WriteLine("O resultado  da multiplicação é: "+ resultado);break;
 
@@ -45,6 +45,8 @@ namespace Calculadora
                     Console.WriteLine("O resultado  da divisão é: ", resultado);
                  }break;                    
             }
+            Console.Write("Continuar calculando? (s/n)");
+            Console.ReadKey();
         }
     }
 }
