@@ -7,7 +7,9 @@ namespace Calculadora
         static void Main(string[] args)
         {
             Inicio:
-            
+
+            Console.Clear(); //comando para limpar a tela do console
+
             Console.Write("Digite o  primeiro número:");
             double num1 = double.Parse(Console.ReadLine());
 
@@ -56,8 +58,7 @@ namespace Calculadora
             if (opcao == "s" || opcao == "S")
             {
                 goto Inicio;
-            }
-            Console.ReadKey();
+            }            
         }
     }
 }
