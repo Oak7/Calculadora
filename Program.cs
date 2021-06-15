@@ -6,6 +6,8 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
+            Inicio:
+            
             Console.Write("Digite o  primeiro número:");
             double num1 = double.Parse(Console.ReadLine());
 
@@ -39,13 +41,22 @@ namespace Calculadora
                  {
                      Console.WriteLine("Não é possível dividir por zero", resultado);
 
-                 }else{
+                 }
+                 else
+                 {
 
                     resultado = num1 / num2;
                     Console.WriteLine("O resultado  da divisão é: ", resultado);
-                 }break;                    
+                 }
+                 break;                    
             }
             Console.Write("Continuar calculando? (s/n)");
+            string opcao = Console.ReadLine();
+
+            if (opcao == "s" || opcao == "S")
+            {
+                goto Inicio;
+            }
             Console.ReadKey();
         }
     }
